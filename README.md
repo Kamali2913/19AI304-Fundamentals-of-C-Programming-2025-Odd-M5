@@ -39,11 +39,12 @@
 ### Step 12: 
   Stop
 # Program:
-<img width="823" height="368" alt="image" src="https://github.com/user-attachments/assets/3702ba49-1d55-4439-9e9c-28449fbcfcd6" />
-
-# Output:
 <img width="782" height="604" alt="image" src="https://github.com/user-attachments/assets/afb70b92-5072-4ab8-a97f-da0952377be7" />
 
+
+# Output:
+
+<img width="823" height="368" alt="image" src="https://github.com/user-attachments/assets/3702ba49-1d55-4439-9e9c-28449fbcfcd6" />
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
